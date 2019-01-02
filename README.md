@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/rg3/youtube-dl.svg?branch=master)](https://travis-ci.org/rg3/youtube-dl)
 
+D:\Downloads\mp3\Downloader\youtube-dl -o D:\Downloads\mp3\mp3\%(title)s.%(ext)s  --extract-audio --audio-format mp3 --audio-quality 320K "https://www.youtube.com/watch?v=dbe7Vekper8"
+
 youtube-dl - download videos from youtube.com or other video platforms
 
 - [INSTALLATION](#installation)
